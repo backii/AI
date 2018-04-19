@@ -1,1 +1,3 @@
 https://users.cs.fiu.edu/~taoli/pub/a41-ye.pdf
+http://www.arpnjournals.org/jeas/research_papers/rp_2017/jeas_0617_6148.pdf
+https://www.safaribooksonline.com/library/view/apache-spark-for/9781785880100/ch04s14.html
